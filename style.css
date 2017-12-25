@@ -3,6 +3,8 @@ body{
 }
 #container{
     background-color: white;
+    width: 1000px;
+    margin: 0 auto;
 }
 header{
     background-color: #EEEEEE;
