@@ -11,11 +11,6 @@ header{
     color: brown;
     border: 4px brown dashed;
 }
-footer{
-    background-color: #EEEEEE;
-    color: gray;
-    float: both;
-}
 h2{
     color: orange;
 }
@@ -29,4 +24,9 @@ aside{
 article{
     width: 700px;
     float: right;
+}
+footer{
+    background-color: #EEEEEE;
+    color: gray;
+    float: both;
 }
