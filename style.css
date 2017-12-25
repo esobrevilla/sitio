@@ -1,11 +1,12 @@
 body{
-    background-color: orange
+    background-color: orange;
 }
 #container{
-    background-color: white
+    background-color: white;
 }
 header{
-    background-color: #EEEEEE
+    background-color: #EEEEEE;
+    color: brown;
 }
 h1{
     color: blueviolet
