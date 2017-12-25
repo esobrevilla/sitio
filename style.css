@@ -4,6 +4,9 @@ body{
 #container{
     background-color: white
 }
+header{
+    background-color: whitesmoke
+}
 h1{
     color: blueviolet
 }
