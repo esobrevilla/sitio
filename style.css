@@ -13,7 +13,8 @@ header{
 }
 footer{
     background-color: #EEEEEE;
-    color: gray
+    color: gray;
+    float: both;
 }
 h2{
     color: orange;
