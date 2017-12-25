@@ -25,3 +25,7 @@ aside{
     width: 250px;
     float: left;
 }
+article{
+    width: 700;
+    float: right;
+}
