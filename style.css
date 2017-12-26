@@ -33,6 +33,9 @@ h2{
 h3, h4{
     color: brown;
 }
+h1, h2, h3, h4{
+    margin-bottom: 5px;
+}
 input, textarea{
     display: block;
 }
