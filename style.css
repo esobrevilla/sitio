@@ -41,7 +41,7 @@ h1, h2, h3{
 }
 input, textarea{
     display: block;
-    margin: 5px 0;
+    margin: 10px 0;
 }
 form{
     margin-top: 10px;
