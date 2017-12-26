@@ -1,4 +1,5 @@
 function saluda(){
-    document.getElementById("saludo").innerHTML="Hola" + document.getElementById("nombre").innerHTML();
+    var n = document.getElementById("nombre").innerHTML;
+    document.getElementById("saludo").innerHTML="Hola" + n;
     //document.write("aquiiii");
 }
