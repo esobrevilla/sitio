@@ -11,6 +11,10 @@ header{
     color: brown;
     border: 4px brown dashed;
     text-align: center;
+    line-height: 5em;
+}
+header h1{
+    margin: 0;
 }
 aside{
     width: 250px;
