@@ -1,4 +1,4 @@
 function saluda(){
-    document.getElementById("saluda").innerHTML="Hola";
+    document.getElementById("saludo").innerHTML="Hola";
     document.write("aquiiii");
 }
