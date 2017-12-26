@@ -10,6 +10,7 @@ header{
     background-color: #EEEEEE;
     color: brown;
     border: 4px brown dashed;
+    text-align: center;
 }
 aside{
     width: 250px;
