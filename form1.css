@@ -1,6 +1,14 @@
 body{
     background-color: beige;
+    
 }
 .dataform{
     width: 600px;
+}
+input{
+    margin-top: 5px;
+}
+label{
+    margin-top: 5px;
+    width: 200px;
 }
