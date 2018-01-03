@@ -8,9 +8,9 @@ body{
 input{
     border: 1px solid #000;
     margin-top: 5px;
+    width: 200px;
 }
 label{
     margin-top: 5px;
-    width: 200px;
     text-align: right;
 }
