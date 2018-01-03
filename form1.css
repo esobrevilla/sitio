@@ -11,4 +11,5 @@ input{
 label{
     margin-top: 5px;
     width: 200px;
+    text-align: right;
 }
